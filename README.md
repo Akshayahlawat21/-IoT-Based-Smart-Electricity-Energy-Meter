@@ -1,3 +1,8 @@
 Electricity is one of the prime needs of the humans in our day to day life keeping a track on the consumption of electricity is very important as it is useful in the saving of Electricity. We have created an IOT based project which is used for keeping a track on electric consumption. This IOT based smart electricity energy meter is based on the ESP8266 module and adruino application , this ESP8266 module is helpful for sending the data to the required device and arduino application is used to monitor it. In the project we use both the current and voltage meters for measuring of the quantities ,these measured quantities are been processed and stored in the ESP8266 module and are been transferred to the connected device thus in this way we can always keep a track on the consumption of the energy.
 
+
+![image alt](https://github.com/Akshayahlawat21/-IoT-Based-Smart-Electricity-Energy-Meter/blob/9ef786a290baead42f9ab2c544866210d5c84074/HARDWARE/Screenshot%202026-03-09%20122938.png)
+
+
+
 ![image alt](https://github.com/Akshayahlawat21/-IoT-Based-Smart-Electricity-Energy-Meter/blob/94421c5366ece71ba991de3bc96377718ab0c8d8/Screenshot%202026-03-09%20122802.png)
